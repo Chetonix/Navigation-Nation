@@ -1,2 +1,4 @@
 # Navigation-Nation
-A project I am creating, its about a smooth navigation experience.
+It's a website theme with smooth navigation!
+
+Link: https://chetonix.github.io/Navigation-Nation/
